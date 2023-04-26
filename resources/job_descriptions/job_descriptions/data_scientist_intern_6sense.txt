@@ -1,0 +1,67 @@
+﻿The Company:
+
+It's no surprise that 6sense is named a top workplace year after year — we have industry-leading technology developed and taken to market by a world-class team. 6sense is Top Rated on Glassdoor with a 4.9/5 and our CEO Jason Zintak was recognized as the #1 CEO in the small & medium business category by Glassdoor's 2021 Top CEO Employees Choice Awards.
+
+6sense has also won several accolades that demonstrate its reputation as an employer of choice including the Glassdoor Best Place to Work (2022), TrustRadius Tech Cares (2021) and Inc. Best Workplaces (2022, 2021, 2020, 2019).
+
+6sense reinvents the way organizations create, manage, and convert pipeline to revenue. The 6sense Revenue AI captures anonymous buying signals, predicts the right accounts to target at the ideal time, and recommends the channels and messages to boost revenue performance. Removing guesswork, friction and wasted sales effort, 6sense empowers sales, marketing, and customer success teams to signiﬁcantly improve pipeline quality, accelerate sales velocity, increase conversion rates, and grow revenue predictably.
+
+6sense Internship Program: 
+
+6sense's Internship program is a 10-week program designed to give you a look into 6sense's dynamic culture and gain real world experience through project-based learning, mentorship, networking and learning and development opportunities alongside an intern cohort.  
+
+As an intern, you'll be tasked with a solution-oriented project focused on solving a real challenge/problem the hosting 6sense department faces. Our interns will conduct research, engage in real work to address the challenge, and present their findings or outcomes with support from a senior leader sponsor. 
+
+About the team:
+
+The data science team is at the core of 6sense engineering. Our data scientists are building models, manipulating big data, and working with APIs that are essential to the 6sense product. Our models inform smart email campaigns, website personalization, ad optimization, inside sales call lists, and go-to-market messaging. We influence how businesses spend millions of marketing and sales budgets.
+
+Potential projects to showcase your talent as a Data Scientist Intern:
+Performing descriptive analysis to provide insight and support analytics initiatives;
+Working closely with Data Science team and provide data analysis and support for modeling initiatives;
+Participate in project meetings and contribute if/when possible
+Other ongoing data analytics work as needed
+
+Qualifications: 
+Pursuing a Bachelor's or Master's Degree in Mathematics, Data Science, Statistics, Business Analytics or other quantitative areas
+Course project or work experience in in data cleaning and preparation concepts and tools
+Knowledge in statistical libraries and frameworks for advanced analytics
+Some background in relational databases, data modelling and SQL
+Course project or work experience in Python, SQL and Data Visualization
+Strong communication skills, both verbal and written
+Able to work in a team and build effective relationships
+Highly motivated, self starter
+
+We push the envelope. We move fast and innovate. We put future and current customer experiences at the center of everything we do. Details matter. So, if excellent attention to detail, inquisitiveness, and passion for customers is your thing, join us. We use great technology; especially our own.
+
+Every person in every role at 6sense owns a part of deﬁning the future of our industry-leading technology. You'll join a team where curiosity is prized, no one's satisﬁed with the status quo, and everyone's all-in on the collective good.6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure successby the value we create for our customers.
+
+We want 6sense to be the best chapter of your career.
+
+Feel part of something
+
+You'll be part of building tomorrow's tech, revolutionizing how marketing and sales teams create, manage, and convert pipeline to revenue. And you'll be seen and appreciated by co-workers who challenge you, cheer you on, and always have your back.
+
+At 6sense, you'll experience the passion from customers and colleagues alike for our market-leading vision, and you're entrusted with applying your unique talents to help bring that vision to life.
+
+Build a career
+
+As part of a company on a rocketship trajectory, there's no way around it: You're going to experience unparalleled career growth. With colleagues as humble and hungry as you are, and a leadership philosophy grounded in trust, transparency, and empowerment, every day is a chance to improve on the one before.
+
+Enjoy access to our Udemy Training Library with 5,000+ courses, give and get recognition from your coworkers, and spend time with our executive team every two weeks in our All Hands gathering to connect, learn and ask leaders about whatever is on your mind.
+
+Enjoy work, and your life
+
+This is a place where you'll do your best work and inspire others to do theirs — where you're guaranteed to make real connections, for life, along the way.
+
+We want to help you prioritize health and wellness, today and tomorrow. Take advantage of family medical coverage; a monthly stipend to support your physical, mental, and ﬁnancial wellness; generous paid parental leave beneﬁts; Plus, we have an open time-off policy, so you can take the time you need.
+
+Set for success
+
+A vision as big as ours only comes to life when we're all winning together.
+
+We'll make sure you have the equipment you need to work at home or in one of our oﬃces. And have the right snacks, pens or lighting with our work-from-home expense reimbursement allowance. We also partner with WeWork to make sure that if your choice is a hybrid of home and oﬃce, we have you covered in the locations they're offered.
+
+That's the commitment we make to every one of our employees. If this sounds like a place where you'll thrive as you take your success to the next level, let's chat!
+
+6sense is an Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to jobs@6sense.com.

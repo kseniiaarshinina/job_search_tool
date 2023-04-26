@@ -1,0 +1,45 @@
+﻿Holy Grail developed a direct air carbon capture technology that uses electrons to capture CO2 from the atmosphere. We are looking for proactive candidates who are ready to take ownership and are passionate about creating a sustainable solution to removing excess CO2 from the atmosphere. The ultimate goal of Holy Grail is to contribute to the long-term sustainability of life on Earth.
+
+We are looking for data science interns to join our team and help bring our modular CO2 scrubbers to market.
+
+This role will be located in Mountain View, CA.
+
+Requirements:
+
+Detail-oriented with a creative approach to science and engineering
+A high degree of autonomy and independence
+Intrinsic motivation with a fundamental love of science
+Ability to learn and adapt quickly
+Intermediate python level
+Intermediate skills in Tensorflow and/or Pytorch
+
+Responsibilities:
+
+Design and build models for Design of Experiments
+Design and build multi-target regression models for research and engineering optimization
+Design and build hyperparameter tuning pipelines for machine learning and deep learning models
+Collaborate with mechanical engineers, chemical engineers, and design engineers to optimize manufacturing methods
+
+Nice to have:
+
+Experience with probabilistic models like Gaussian processes and BNNs
+Experience with active learning for Design of Experiments
+Experience with different active learning sampling methods
+Experience in building regression models in large combinatorial space
+Data engineering experience
+Computational chemistry and atomistic simulations experience
+Bioinformatics experience
+Experience with TensorFlow probability and Pyro
+Experience with building active learning sampling methods from scratch
+
+What we offer:
+
+You will join a team that is passionate about having an impact on climate change. We care about the optimal way to solve a problem and nurture a culture of creativity and collaboration. We care about quick iterations, minimizing assumptions, and we use emojis to label our chemicals. We work on interesting technical problems and provide support and resources to tackle them.
+
+Impact: your contribution will directly impact our technical milestones and you will have full ownership of your projects. We don’t micromanage
+
+No politics: we give you the resources to test all your wildest ideas in hours or days, not months. If there is a chance that something will advance our progress we will test it as soon as possible
+
+Autonomy: we welcome your independent perspective and encourage you to set and manage your time to achieve our shared goals
+
+Flexibility: we cultivate an informal environment that is more fun and less rigid compared to academia and larger companies

@@ -1,0 +1,29 @@
+﻿We are looking to fill a Data Scientist position to work closely with our Blockchain Engineering team.
+
+
+Qualifications :
+
+You have relevant experience in data science: you can collect, analyze and interpret extremely large amounts of data
+
+You are experienced with Machine Learning and AI
+
+You work with diverse analytical methodologies, including statistical / machine learning, forecasting, text mining, big data algorithms and technologies, spatial analysis, recommendation systems, web analytics
+
+You a have a solid knowledge of data manipulation, data analysis procedures, data cleansing, data extraction, data transformation, data loading, data visualisation
+
+You have a good understanding of data-related topics (data quality, metadata, master data management)
+
+You are collaborative, proactive, with a structured thinking, curious, delivery focused and problem solver
+
+Experience with NLP is a plus
+
+Excellent English communication skills, written and verbal
+
+Responsibilities :
+
+Design and implement end-to-end data pipelines, and work closely with the team to build instrumentation and define data models
+Take ownership of monitoring to ensure high availability of our data tooling
+Build actionable production-quality internal dashboards, with well defined KPI’s
+Development and maintenance of next-generation mathematical models, leveraging data and machine learning
+
+If this opportunity sounds exciting, then please send your application along with your salary expectations to hr at ibloxx.com

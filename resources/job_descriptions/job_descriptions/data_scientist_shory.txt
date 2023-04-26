@@ -1,0 +1,36 @@
+﻿Shory is the soft revolution in the Insurtech market. Welcome to a new age where insurance actually empowers its customers. We use technology to serve our customers and create ease of mind and trustworthiness around insurance needs. With Shory, a new time has begun.
+
+
+About the Role & Opportunity
+
+
+We are looking for a Data Scientist to join our UAE team who will be responsible to design, execute and evaluate business analysis to present clear and actionable strategies, models, data visualization, reporting and results. Responsible to collect big data, conduct data intelligence models, patterns and pricing schemes that seek to improve business and financial returns.
+
+
+Create a prediction model, customer base retention, patterns, cost base analysis and relevant dashboards and automated reports
+Design correlation models for customer usage and design more attractive offers for future users in relevant markets, segments
+Design models for budget planning and target setting
+Design and monitor cost benefit analysis and report on opportunity areas
+Ensure data integrity and governance with relation to data collection and retention
+Develop vertical target sectors to address customer’s needs and overcome key data or technology challenges
+Be a visionary thinker and leader in researching tech and other relevant companies to seek scale up, deliver state of the art technology solutions
+Drive design, implementation and adoption of a modern, connected data ecosystem with governance and regulations
+Create data design principles, models, schemas and methodologies for all relevant products to bring solutions to stakeholders
+Develop, execute and evaluate business analysis to present clear actionable recommendations
+Create a reporting framework for reporting, analytics and data visualization on all relevant products
+Ensure all business analytics have metrics, revenue and churn measurements.
+Create dashboards or other visual analytics data visualization platforms
+Analyse claims and policies to verify type of schemes/pricing to garner increased results
+Keep abreast of all new tech and data developments with emerging technologies and possible alignment areas
+
+About the Skills, Education & Experience Required
+
+
+To be considered for this role, you will need to have at least 6 - 8 years of experience in designing, programming and supporting data management systems.
+
+
+Bachelor's degree in Information Technology or Information Management Systems or any relevant qualifications
+Experienced in technologies such as: R statistical data analysis, .NET, Java, C#, Python, VR, Mongo DB and Azure
+Highly proficient in data analytics: google analytics 360 Suits, Google Big Query, Google Tag Manager, Google Tab Studio, first and third party cookies
+
+If you have the relevant experience and are interested in being part of our team, please take the time to apply for this position.

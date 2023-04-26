@@ -1,0 +1,19 @@
+﻿Due to the nature of this role- applications are not available for folks that require sponsorship or to apply on a C2C basis (Independent contractors(those that own their own LLC) can be considered)
+
+
+Optomi in partnership with an independent capital markets company, is seeking a highly skilled and experienced Machine Learning Engineer to support AI/ML initiatives in their cyber-security organization.
+
+
+Experience of the right candidate:
+
+Bachelor's degree or higher in a technical field such as computer science, computer engineering or related field
+3-5+ years of professional experience as a Data Scientist or Machine Learning Engineer
+Good understanding of Anomaly Detection techniques/algorithms
+Advanced level of understanding and experience with Python programming and relevant frameworks/libraries like Pandas, NumPy, Sci-Kit Learn,etc.
+Proficiency leveraging AWS technologies
+
+Additional Desired Experience
+
+Experience with unsupervised learning techniques such as Isolation forests
+Experience working for financial institutions
+Experience with Agile/SCRUM methodology

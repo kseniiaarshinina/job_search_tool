@@ -1,0 +1,32 @@
+﻿Futurewei Technologies based in Santa Clara, CA is actively pursuing innovative ideas and different new and disruptive technologies. We are seeking an intern with research and development experience in machine learning, deep learning, statistics, optimization and operations for one of the projects in Technology Strategy Department.
+
+Responsibilities
+
+Research and prototype development using deep learning algorithms with a special focus on the perception, data generation, knowledge/rule based decision-making in autonomous driving.
+Implementation with python for the selected prototypes in ML platform.
+Run ML training (for example, GAN) models and evaluate the performance of different datasets for planning and prediction.
+Patent the innovations during the internship.
+
+Basic Qualifications
+
+Pursuing a PhD in computer science, electrical engineering, statistics, mathematics, operations research or a related field.
+Understanding of modern machine learning techniques and their mathematical underpinning.
+Proficiency designing and implementing analytical and/or algorithmic solutions, tailored to business needs and tested on large data sets.
+Be able to work 40 hours a week.
+Python proficiency required, PyTorch framework preferred.
+Enjoy working within a dynamic and continuously evolving environment.
+
+Preferred Qualifications
+
+Experience with machine learning (e.g., deep learning), statistics, mathematics, and related domains.
+Experience with robotics (e.g., robot perception or planning/prediction), cybernetics, complex system is welcome
+
+Location: Santa Clara, CA
+
+Hourly intern pay range: $18 to $59, depending on degree-seeking academic program (PhD, Master’s, Bachelor’s, etc.), years of relevant experience, year in school, geographic location, credentials, qualifications and other job-related factors.
+
+Housing allowance and relocation benefit might be provided to intern candidates who meet the qualifications. Additional details on the compensation package will be provided to candidates during the interview process.
+
+Futurewei Technologies, Inc. is proud to be an Equal Opportunity Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status under federal, state, and local laws.

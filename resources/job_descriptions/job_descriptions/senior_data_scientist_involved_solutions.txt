@@ -1,0 +1,19 @@
+﻿What You'll Do
+
+Lead the development of scalable and efficient machine learning platform products
+Develop technical specifications and architectures for new ML platform features and products
+Collaborate with cross-functional teams to ensure product development aligns with business goals
+Define and enforce engineering best practices to ensure high-quality deliverables
+Mentor and guide junior engineers, providing technical direction and leadership
+Stay up-to-date with the latest ML platform technologies and trends to identify opportunities for product innovation
+Communicate effectively with technical and non-technical stakeholders to ensure alignment on project goals and timelines.
+
+Qualifications
+
+5+ years experience in developing Machine Learning models at scale from inception to business impact
+Deep understanding of modern Machine Learning techniques and mathematical underpinning, such as classifications, recommendation systems, optimization, etc
+Working with Data size from Terabyte to Petabyte scale
+Good experience with Python, Java and/or Scala, with solid project experiences
+Excellent communication skills
+Experience in Deep Learning is a plus
+Experience in productionizing Machine Learning model is a plus

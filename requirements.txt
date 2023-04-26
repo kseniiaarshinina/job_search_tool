@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+openai
+pyside6-essentials
+pyperclip
+PySide6
+sentence-transformers
+pygsheets

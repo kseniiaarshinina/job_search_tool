@@ -1,0 +1,56 @@
+﻿Role Purpose
+
+
+· Deliver or contribute to delivery of Intelligence services, such as intelligence refresh, analysis, advice, Intelligence Research and Development (R&D), coaching, [intelligence] committees, performance intelligence and health economics intelligence
+
+· Access, manage and perform complex queries, run analyses, interpret data and prepare information assets and data extracts with a focus on writing analytical programmes or use of Daman platform's features
+
+· Understand Daman strategy and business decisions to be taken and support managers to take informed, fact-based decisions
+
+· Develop distinctive expertise in specific analytical tool(s) such as SAS or Excel in an independent and proactive fashion. Transform new opportunities into practical high-value solutions for Daman, where needed with guidance of the respective Section Head
+
+· Proactively research and technically design innovative, state-of-art and user-friendly information assets [or demos] that can catalyse and facilitate agility and efficiency of business users. Note: research may be initiated with limited engagement of business users where design typically is in close collaboration with business users and advanced analysts
+
+· Quality review information assets before release from technical view
+
+· Actively share best practices and knowledge inside and outside the Intelligence Department and promote analytics (and self-service) within Daman
+
+· Support other Intelligence teams as per business needs:
+
+o Advanced Analysts – e.g. on methodological set up or hypothesis testing
+
+o Intelligence Administrators – e.g. on self-service trainings
+
+o Account Officers – e.g. on the development of self-service assets
+
+o Respective Section Head – e.g. on any task related to Intelligence
+
+· Actively plan and undertake actions that enhance the connection of Intelligence with any business unit at direction of superiors
+
+Key Requirements and Qualifications
+
+· Minimum 4 years of work experience in programming and analytical context
+
+· Consulting experience is preferred
+
+· Bachelor’s degree in computer science or computer engineering or in a quantitative field with evidence of programming experience
+
+· Master’s degree in any of the above fields is preferred
+
+Skills and Competencies
+
+· Good business understanding and background
+
+· Good leadership skills including people management, selection and development skills
+
+· Very good command of written and spoken English; knowledge of Arabic language is an advantage
+
+· Very good analytical, planning, forecasting, execution and problem-solving skills
+
+· Good knowledge of health insurance concepts
+
+· Excellent command of statistical programming
+
+· Excellent Microsoft Excel skills, with VBA being a plus
+
+· Daman Analytical Framework requirements:

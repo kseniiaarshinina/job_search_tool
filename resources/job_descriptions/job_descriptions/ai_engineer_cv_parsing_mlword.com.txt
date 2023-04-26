@@ -1,0 +1,28 @@
+﻿Position: AI Engineer - CV Parsing
+
+Location: UAE
+
+Salary: 1000$ to 1500$
+
+Job : Remote
+
+Job Description:
+
+We are seeking an experienced AI Engineer with expertise in CV parsing to join our growing team. As an AI Engineer, you will be responsible for developing and maintaining our CV parsing software, which extracts information from resumes and job applications to help streamline our hiring process.
+
+Responsibilities:
+
+Develop and maintain our CV parsing software using natural language processing (NLP) and machine learning algorithms.
+Collaborate with cross-functional teams to understand business needs and translate them into technical requirements.
+Identify and troubleshoot issues with the CV parsing software, and propose solutions to improve accuracy and efficiency.
+Stay up-to-date with industry trends and emerging technologies related to CV parsing and machine learning.
+Train and deploy models in a production environment.
+Requirements:
+
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or related field.
+2+ years of experience in AI engineering, with a focus on natural language processing and machine learning.
+Strong programming skills in Python or other programming languages.
+Experience with machine learning libraries such as TensorFlow, PyTorch, or Keras.
+Experience with CV parsing software, such as Rchilli, Sovren, or Textkernel.
+Strong problem-solving skills and ability to work independently and as part of a team.
+If you are passionate about AI and have experience in CV parsing, we would love to hear from you. Please submit your resume and cover letter, and we will be in touch soon.

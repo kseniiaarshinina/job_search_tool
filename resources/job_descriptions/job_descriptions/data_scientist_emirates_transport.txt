@@ -1,0 +1,38 @@
+﻿Overview:
+
+Established in 1981, Emirates Transport is the largest government company in the United Arab Emirates and a leader in the Automotive Service Industry, Rental, Transportation & Logistics sectors.
+
+Emirates Transport is committed to its obligations in Corporate Social Responsibility (CSR) towards the environment, society, and employees.
+
+To learn more about Emirates Transport visit https://et.ae/en/
+
+
+About the Position:
+
+We are looking to recruit an experienced Data Scientist to join Emirates Transport – Finance team. This role will use data science techniques to analyze and optimize the performance and operation of the Finance division and, support the Finance senior leadership team make data-driven decisions.
+
+
+Key Accountabilities:
+
+Collecting and organizing data from various sources, such as CRM, ERP, etc.
+Cleaning and pre-processing the data to ensure its accuracy and completeness.
+Analyzing and interpreting large volumes of operational data using statistical models and tools.
+Applying advanced statistical and machine learning techniques to the data to identify trends and patterns.
+Working with cross-functional teams to identify, gather, and integrate data from various sources.
+Communicating findings and insights to stakeholders.
+Collaborating with other team members, such as data analysts and engineers, to develop and maintain tools and systems for data collection and analysis.
+Providing insights and recommendations to support decision-making.
+Developing and maintaining dashboards and reports to visualize key metrics using Power BI.
+
+Expected Qualifications:
+
+Bachelor's or Master's degree in data science, computer science, or a related field
+
+Experience and Skills Set:
+
+Experience using Power BI is a must
+4 – 6 years in a relevant field
+Strong knowledge of data science and machine learning techniques
+Good understanding of statistics and data analysis
+Comfortable working with large datasets
+Able to communicate their findings effectively to non-technical stakeholders

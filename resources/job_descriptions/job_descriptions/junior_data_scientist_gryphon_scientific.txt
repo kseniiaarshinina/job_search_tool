@@ -1,0 +1,60 @@
+﻿This position offers options for in-person (in the District of Columbia (DC) metropolitan area), hybrid or remote (within the US) work
+
+Company Description
+
+Gryphon Scientific is a small, growing consulting business with a unique focus on physical and life sciences, public health, chemical, biological, radiological, and nuclear (CBRN) defense, and program management and evaluation. We capitalize on our staff’s rich, experience in the laboratory, in policy shops and in the field to tackle projects with complex technical challenges. A core aspect of Gryphon work involves the collection, curation, analysis, and dissemination of data and information to foster collaboration and scientific discovery, guide client decision making, and support both national and international research and preparedness and response efforts. Our projects drive policy changes in security, preparedness, and science policy at the highest levels of US government. Abroad, we advise governments in the developing world on how to cope with daunting public health challenges. Our aim is to improve the health and safety of populations world-wide.
+
+Gryphon strongly encourages collaboration across disciplines, throughout the company, and between junior and senior staff. Personal and professional development are actively supported through opportunities to work across a wide range of projects. The energy of our small business environment, as well as our commitment to technical excellence, attracts staff with interesting and impressive backgrounds as well as recent graduates seeking a challenging and rewarding career. Gryphon boasts a friendly work environment, a comprehensive employee benefit package, and places an emphasis on work-life balance, which has yielded excellent employee retention. We are committed to attracting and retaining a diverse staff and will honor your experiences, perspectives, and unique identity. The company is headquartered in Takoma Park, MD but provides our staff remote working opportunities from any U.S. state or territory.
+
+Description
+
+As a junior data scientist at Gryphon, you will collaborate as a team member on analytical and modeling tasks, developing solutions related to public health and safety, homeland security, international engagement, and emerging infectious disease, under the guidance of senior data scientists and principal investigators. Our example projects that might excite you include using computational probability and statistics to perform disease modeling and forecasting, implementing natural language processing (NLP) and deep learning-based natural language generation (NLG) capabilities to identify and combat misinformation about vaccines and infectious disease, and mathematical modeling of the spread of pathogens under certain environmental conditions, to name a few.
+
+Duties:
+In this position you will have an aptitude for and interest in learning and applying one or more techniques in statistics, computational probability, NLP, NLG, neural networks, and deep learning, and to work with a mentor to become an expert in one or more of these technologies over time.
+You will collaborate with your co-workers to become knowledgeable in the broad portfolio of Gryphon projects including but not limited to infectious diseases, global health security, biosafety, biosecurity, emergency preparedness and response, biotechnology, and/or public health.
+As part of project-focused work, you will seek out and define new data collection and analysis strategies, always on the lookout for new tools and techniques that can improve our work.
+Communication is key at Gryphon. You will learn how to document and present complex quantitative analysis and results to internal and external stakeholders at the appropriate technical depth via written reports and oral presentations.
+
+Requirements
+
+Minimum Qualifications:
+Undergraduate degree in a relevant discipline (biological sciences, statistics, computer science, data science, mathematics, or a related field)
+1-3 years of data analytics, data science, ML, or AI experience (can be through coursework).
+GPA greater than 3.0 (out of 4.0) in your major.
+Experience building data science analysis solutions in R, Python, C, C++, Java, Visual Basic, or another programming language.
+Experience in data cleaning, normalization, aggregation, and standardization.
+Experience with git or other version control systems.
+Ability to properly document code.
+Experience co-developing code/pipelines/etc. with multiple developers.
+Excellent critical thinking and problem-solving skills.
+Excellent attention to detail; organization skills and excellent follow-through.
+Excellent writing, interpersonal, and oral communication skills.
+U.S. citizenship and a work location located in the United States.
+
+Additional Skills and Experience (nice to have, but not required):
+Experience in Biology, Chemistry, Environmental Science, or another scientific discipline.
+Experience running end-to-end data science pipelines.
+Experience using relational database technologies, such as SQL, MySQL or PostgreSQL.
+Experience using graph databases such as Neo4J.
+
+Gryphon is seeking applicants from diverse backgrounds and communities, including those who can demonstrate the above skills and abilities developed through non-traditional work history, experiences, and education. We encourage applicants who may have some but not all additional skills and experience.
+
+Benefits
+
+Company Benefits
+Fully paid health insurance for staff, and discounted rates for family members
+Dental, disability, and life insurance
+Flexible working hours
+Options for in-person (in the District of Columbia (DC) metropolitan area), hybrid or remote work (within the U.S.)
+Paid time off, in addition to 10 paid holidays
+Continuing education benefits (after 6 months of employment at the beginning of the year)
+Generous year-end profit sharing and performance bonuses
+Wellness benefits (funds gym memberships, exercise classes, etc.)
+Up to 12 weeks leave, per the Family Medical Leave Act (FMLA)
+Parental leave
+Flex spending account (FSA)
+401K with 3% match (after 6 months of employment)
+Bereavement leave
+
+Salary Range: $50,000 - $75,000

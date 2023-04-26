@@ -1,0 +1,41 @@
+﻿Anika Systems is looking for dynamic, well-rounded interns to join our growing team! We are a fast-growing, woman-owned small business providing innovative IT solutions for federal government agencies. This opportunity will be 100% remote and is a paid internship.
+
+Must be a U.S. Citizen with the ability to obtain and maintain a government suitability clearance.
+
+The Data Scientist Intern will work with the Data Platform team to research and develop cloud-based data management solutions for Anika Systems. You will utilize a variety of technologies to provide a scalable, reliable foundation for organizations to store, process, and analyze large volumes of data.
+
+In this role, you will:
+
+Learn to design and build data pipelines for common business use cases
+Develop and maintain data processing workflows
+Design and develop data visualizations
+Learn and apply machine learning techniques to data analysis
+Identify opportunities for automation and process improvement
+Research and implement best practices for data governance and security
+Contribute to documentation and knowledge sharing activities to ensure that the team's work is well documented and accessible to others
+Participate in sprint planning and agile development processes
+
+Minimum requirements for the role:
+
+Current student pursuing a Bachelor's or Associate's degree in engineering, computer science or related field (3.0+ GPA)
+Familiarity with programming languages such as Python, R, or Scala
+Familiarity with query languages such as SQL or KQL
+Understanding of data structures and algorithms
+Interest in data engineering and data analysis
+Strong technical aptitude and desire for continuous learning
+Effective time management skills and strong attention to detail
+
+An ideal candidate also has:
+
+Hands-on expertise with SQL for use in data access, discovery and analysis
+Experience with data modeling and data architecture
+Ability to design and implement scalable, efficient data pipelines and workflows
+Understanding of machine learning concepts and tools
+Familiarity with Microsoft Azure, Amazon Web Services, or Google Cloud Platform
+Experience with Databricks, H20, Power BI, Tableau
+
+EOE AA/M/F/Vet/Disability
+
+Powered by JazzHR
+
+3TXvoOgvRa

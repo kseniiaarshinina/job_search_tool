@@ -1,0 +1,42 @@
+﻿You’ll be applying the knowledge and expertise you’ve gained over the last 5 years or more to gather, process, transform, and organise data into actionable insights. Your methodical and logical approach will be crucial to maintaining data integrity. You’ll identify data trends and inconsistencies that can impact our business goals and solve complex business challenges using data-driven techniques. You'll work with different stakeholders and help shape the company's decisions.
+
+Your challenges
+Analyse business requirements and create a seamless data flow from the data source.
+Develop data models for business analytics requirements while considering data privacy, accessibility, and accuracy.
+Convert data from stakeholder requirements in terms of business metrics for analysis purposes.
+Identify any gaps in the data collection and analysis processes and resolve them.
+Perform data-driven analysis and evaluation of current business processes to identify areas for improvement.
+Engage in collaborative work within the team, data engineers and reporting leads to fulfill business requirements ranging from data quality and management to business intelligence and reporting.
+Present the reporting and analysis solutions to stakeholders in dashboards or alerts.
+Establish standard business terminologies and implement them across the company.
+
+Requirements
+At least 5 years of experience in the data analytics field
+Knowledge of reporting packages, SQL, programming (Python/R), and ETL frameworks for data cleansing, wrangling and load/ingestion purposes
+Experience using data modelling and data warehouse methodologies such as Kimball, Inmon, Anchor, and others
+Familiarity in developing reports and dashboards with data visualisation tools such as Tableau and PowerBI
+Expertise in relational SQL DBs, preferably with PostgreSQL
+Exceptional analytical skills with the ability to transform data into optimal decisions
+Competency in presenting data using various tools to help the team reach informed decisions
+Solid background in statistics, mathematics, or engineering
+Ability to ask the right questions, understand the needs of business units, and meet the expectations of the stakeholders
+Proactive problem-solving skills
+Demonstrated skills in managing multiple competing priorities and projects in a highly dynamic environment
+Strong communication and presentation skills
+Fluency in spoken and written English
+
+What’s Good To Have
+Experience with Google Cloud Platform (GCP) such as Google Bigquery, Scheduled queries as well as Google Cloud storage and functions
+Clear understanding of the marketing domain of financial products and services
+Experience and understanding of digital marketing platforms such as Google Analytics, and Facebook Ads
+Certifications in business intelligence tools like Tableau Certified Data, Analyst Tableau Desktop Specialist, Tableau Certified Server Associate and Google Data Analytics Certificate
+Background in data science
+Proficiency in using spreadsheet software such as Microsoft Excel
+
+Benefits
+Market-based salary
+Annual performance bonus
+Medical insurance
+Housing and transportation allowance
+Casual dress code
+Work permit

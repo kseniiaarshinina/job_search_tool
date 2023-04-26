@@ -1,0 +1,57 @@
+﻿Data Science and Analytics Specialist, HCG Engagement Group
+
+HCG is a global leader in medical communications, comprising of seven interconnected agencies with distinct personalities and complementary skills, and supported by the HCG Engagement Group, a 140+ strong team of creative, digital, and innovation experts focused on one thing: engaging healthcare professionals. Our culture generates a thought arena, driving future thinking, collaboration, and communication excellence. We are passionate about providing the reach and resolve required to deliver programs that move hearts and minds.
+
+This position will be based out of a US office (NYC, Stamford CT, and/or Philadelphia) or can be remote/hybrid.
+
+The Engagement Group’s creative team is a collaborative team of experts, charged with ideating and executing compelling visual stories and experiences that give a voice to science and bring data to life.
+
+Overview
+
+The Data Science and Analytics Specialist, Engagement Group will use and apply data to produce actionable insights that drive greater customer and market understanding to inform pitches, brand strategies, and achieve improved customer engagement.
+
+They work closely with the Digital Strategist and Omnicom Health Group Data Team to support the wider team of strategists, medical teams and client service teams by creation of actionable insights to support data-driven decisions. They support both new business opportunities and client projects. They have strong expertise in working with structured and unstructured qualitative and quantitative data. They have an understanding of the healthcare landscape, including prescribing and claims data. They are problem solvers who have a demonstrated record of producing actionable insights from data. They have an understanding of metrics and analytics for digital tactics, as well as working with customer behaviour data
+
+They are responsible for mining and analyzing data from multiple sources (including our in-house data platform, OmniHealth), preparing reports summarizing findings. These reports allow strategists to prepare insights to help clients and brand teams make better strategic decisions, and helping to plan, collect and analyze appropriate metrics and KPIs, together with the Digital Engagement Strategy team. They are able to make recommendations for the data mining and analytics approach based on business objectives and work with other Data Scientists to achieve this.
+
+Key Requirements
+
+Bachelor of Science (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, MBA, or an equivalent scientific/commercial discipline
+3-5 years of experience in data science required (can be outside healthcare), some agency experience is preferred
+Pharma/healthcare, or Life Science, industry expertise is preferred, but not essential
+Highly proficient in Excel, PowerQuery and Access
+Proficient in PowerPoint, Tableau, PowerBI or similar
+Fluent in understanding data analysis visualization and interpretation
+Comfortable formulating actionable insights and recommendations from data analysis in accordance to the business challenges, and preparing these into into presentations (using PowerPoint, Tableau, etc.) and presenting results to the wider team
+Effective organizational skills and ability to plan and manage own workload
+Ability to work with different types of data (structured and unstructured) and be flexible and adaptable to find solutions
+Self-motivation, proactivity and ability to work successfully in a fast-paced, ever-changing environment
+Strong communication, analytical, presentation, and problem-solving skills
+Understanding of marketing and communications, especially in healthcare desirable, as is understanding of healthcare claims and EMR data
+Experience/certification with Google Analytics, Adobe Analytics, Doubleclick preferred
+Experience analyzing and developing statistical models a plus
+Experience with SnowFlake is a plus
+
+Key Responsibilities
+
+Collating data from our various sources (primarily prescription, claims and behaviour data), analyzing and preparing reports based on the data to help guide insights and strategy
+Data collation and analysis to better understand the our healthcare professional audience behaviours, preferences, drivers, motivations, etc.
+Understand requirements for data analytics projects, craft approach and complete the analyses
+Supporting internal and external teams by taking research briefs, suggesting and executing research strategies and analyzing the results to support new business opportunities and client work
+Work with internal data tools and external partners to acquire and work with different types of data and information, from prescription data, to surveys and audience behaviors
+Training and knowledge sharing with colleagues through SOPs and best practice for data and metrics
+Data management and analysis, including standardizing data, data cleansing, loading and managing data visualization tools
+Create data visualizations and reports for agency clients, that will ultimately be presented to end customers by the agency
+Work closely with analyst teams from across multiple agencies in the network
+Contribute to client data analytics assignments and participate in client meetings as appropriate
+Understanding and analysis of metrics and KPIs
+
+Personal Skills
+
+We have high standards. You will be bringing creative leadership to a high-achieving in-house team with your solid integrated understanding of the marketing and communications business.
+
+You must be motivated with a flexible and can-do attitude, combined with excellent communication skills. You should show an ability to overcome challenging requirements and demonstrate creativity and innovation in finding ways to execute never-been-done-before ideas. We expect you to keep abreast of the latest creative and digital trends.
+
+The salary range for this position is $90,000 - 120,000. This range represents the low and high end of the salary someone in this role may earn as an employee of an HCG Agency in the United States. Salaries will vary based on various factors, including but not limited to, professional and academic experience, training, responsibilities of the position, and other business and organizational needs. The range listed is just one component of our total compensation package for employees. Salary decisions are dependent on the circumstances of each hire. HCG reserves the right to modify this pay range at any time. If your requirements fall outside of this range, you are still welcome to apply.
+
+The companies within the Healthcare Consultancy Group are Equal Opportunity Employers. All applicants will be considered without regard to race, color, religion, sex, age, national origin, citizenship status, sexual orientation, disability, veteran status or any category or class of person protected by law.

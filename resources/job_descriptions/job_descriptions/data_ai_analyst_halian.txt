@@ -1,0 +1,25 @@
+﻿Our Client
+
+A leading technology-led and design-focused interior contractor with a presence in six countries.
+
+Your Responsibilities
+Analyzing data using statistical techniques and providing reports.
+Developing and implementing databases and data collection systems
+Identifying, analyzing, and interpreting trends or patterns in complex data sets
+Assigning numerical value to essential business functions so that business performance can be assessed and compared over periods of time
+
+Your Qualifications
+3-5 years relevant experience.
+Python (Jupyter), Node.js is essential.
+Experience in collecting textual data from HTML or PDF and preparing as a dataset.
+Full stack development is highly desired
+Knowledge of OpenAI and ML big advantage but not essential.
+Matplot also helpful.
+
+﻿
+
+Halian Group
+
+With over 20 years of experience, we have come to understand that innovation is the only way to provide agile, practical solutions that transform businesses and careers.
+
+Our resourcing and smart services help you to realize tomorrow’s potential. Discover the amazing things possible when you bring the right people and the right technologies together.

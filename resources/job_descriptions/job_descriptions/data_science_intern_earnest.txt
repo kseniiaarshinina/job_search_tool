@@ -1,0 +1,59 @@
+﻿At Earnest, we believe in a world where paying for your education takes less time than earning your degree. Join us on our mission to empower anyone seeking higher education to reduce the total price tag of their degree, supercharge their ability to pay down student debt, and get on the right financial track fast.
+
+A little background on Earnest: We're a remote first FinTech company with an accomplished team who believe consumer lending can be radically improved and are doing something about it. We are disrupting the trillion dollar student loan industry by redefining what it means to be creditworthy. We created a company that combines data science, streamlined design, and technology to:
+Build products that simplify the lending process
+Personalize loans to suit the needs of our customers
+Engage with our customers through more human experiences
+
+What makes an "Earnie" culture:
+
+Earnest's culture is as dynamic as the products we're building and defining every day. We're a fast-growing company, and that means we're constantly integrating the new perspectives of every individual.
+
+Earnies define our culture as:
+Earn Happy Customers
+Our success comes from anticipating their needs and providing the solutions they're looking for.
+Better is Better
+The path to great means getting better every day. We push ourselves, and each other, to remain curious and think differently.
+PhD in Moving Fast
+Our customers are tired of long wait times and large student loan bills so we constantly seek out ways to deliver faster.
+Passion for Challenges
+Perseverance and optimism are just the start to take on the inertia of a national trillion-dollar problem.
+Impact is a Team Sport
+We maximize our impact when we act as one team.
+Our Earnie's are fun, innovative, and willing to roll up their sleeves to help their team succeed in a fast-paced environment. If this sounds like you, and you want to join us on our mission to radically disrupt a trillion dollar fintech industry, keep reading to find out how.
+
+Your commitment
+
+The summer internship program is 10 - 12 weeks; from June - August.
+
+You will have the opportunity to meet with our highly skilled and passionate Earnies daily. Your ideas, creativity, and dedication to our mission will be front and center with everything that you do. We are not going to be asking you to deliver coffee and bagels, you will be an active participant in projects that are working toward achieving our mission. Plus, at the end of your internship at Earnest, you will get to showcase all of your successes company-wide through our Internship Showcase.
+
+Our ideal candidate will be passionate about our mission and will be able to reflect our values in everything you do at Earnest. You will be part of a remote first culture that stays connected in a fast-paced environment through our values.
+
+This is your opportunity to gain real work experience, be part of a Best Place to Work company, and build your skillset.
+
+Impact of this role:
+
+As a Data Science Intern, you will report to the Senior Data Scientist and will:
+You will leverage Earnest's unique data, standard marketing datasets, and modern statistical and data visualization techniques to better understand Earnest's funnel behavior
+Work on customer segmentation and derive useful insights for product and design stakeholders for better decision making
+Work on ML algorithms and Markovian models to build causal relationships in the funnel events to understand user behavior
+Work cross functionally with Data Eng, Product and Marketing to understand and resolve important problems faced in a fast-paced environment
+
+Ideal background and expertise:
+You will work remotely for 12 weeks starting in June 2023 as a paid intern
+1+ years in R/Python and SQL
+1+ years professional experience in model development and/or data analytics (or Master's degree in Data Science, Operations Research, Industrial Engineering, Economics or a related quantitative field)
+Passionate about probability and statistical inference and some experience with AB testing
+Deep understanding of classification, regression and forecasting models and AB testing
+Experience working in a cross-functional environment with teamwork and excellent communication skills
+
+At Earnest, we are committed to building an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity, inclusion, equity, and belonging enables us to move forward with our mission. We are dedicated to adding new perspectives to the team and encourage anyone to apply if your experience is close to what we are looking for.
+
+Earnest provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Qualified applicants with criminal histories will be considered for the position in a manner consistent with the Fair Chance Ordinance.
+
+A little about our pay philosophy: We take pride in ensuring we are compensating our employees fairly and equitably. We are showcasing a range and actual starting pay may be based on several factors including but not limited to, market rate, the qualified pool of candidates, internal compensation, candidate location, and budgetary constraints. This number does not necessarily reflect your total compensation, but is a range for your base salary.
+
+Pay Range
+
+$40—$40 USD

@@ -1,0 +1,40 @@
+﻿StarX is building the financial infrastructure to transform human capital into a liquid alternative asset class. It provides the platform, analytics, funding and investing ecosystem necessary for retail and institutional investors to invest in sports talent and identify future stars. Our aim is to build the best sport analytics engine, and we are looking for individuals with vision, innovation, passion, technical excellence, drive to deliver, collaboration, and execution that can help accelerate our goal.
+
+Our goal is to enable people to answer the question: What if you could invest in the people who impact and change your world? We are looking for a Data Scientist to support the StarX platform by building, cleaning, and analyzing datasets for use in predictive machine learning models.
+
+Description:
+
+As a Data Scientist, you will work on tools and solutions for the collection of data from disparate sources, transformation, filtering & storage of data based on business needs. You will apply your experience in data analysis & visualization to extract relevant features, perform statistical analysis and build prediction models for the business and customers.
+
+Requirements
+Bachelor’s degree in Computer Science, Computer Engineering, Statistics, or other quantitative fields or equivalent work experience.
+Experience developing models for production scale with a high preference for NBA, NHL, MLB or college basketball
+Knowledge in Probability Theory, Machine Learning, Inferential Statistics, Bayesian Statistics, Markov Chain Monte Carlo methods
+2+ years of demonstrated experience developing and delivering effective machine learning and/or statistical models to serve business needs
+Experience with relational SQL & Python
+Experience with source control tools such as GitHub and related CI/CD processes
+
+Qualifications
+Reliable communication skills are a must
+Existing knowledge of the sports technology industry
+Strict attention to detail and pride in producing error-free work
+
+Responsibilities
+Increase your understanding and knowledge of the global sports technology landscape by leading important research projects
+Get an inside look at the latest technological innovations in the sports world
+Work closely with StarX team to complete research and data management projects
+
+Salary Range - $120,000-$190,000 DOE
+
+Why Join?
+
+We’re currently looking for individuals with vision, innovation, passion, technical excellence, drive to deliver, collaboration, and execution. Join a team of like minded people who personify our mission of ownership, craftsmanship, and open communication.
+Competitive base salary and total compensation package
+Comprehensive Health insurance for employee, partner and dependents
+401k company match
+Generous Paid parental leave, Paid vacation
+Commuting benefits
+Training and professional development
+Inspiring startup environment.
+
+We recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please still consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions. We provide equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

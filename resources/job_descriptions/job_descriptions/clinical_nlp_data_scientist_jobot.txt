@@ -1,0 +1,70 @@
+﻿Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+
+Job details
+
+This is a remote opportunity for candidates in the greater DMV area!
+
+This Jobot Job is hosted by Kyle Shaw
+
+Are you a fit? Easy Apply now by clicking the "Apply" button and sending us your resume.
+
+Salary $130,000 - $160,000 per year
+
+A Bit About Us
+
+We are a healthcare analytics startup that uses NLP to draw insights and data from medical records and provide healthcare providers with insights into patient outcomes, morbidity, etc, all in a effort to improve patient care experiences and patient outcomes.
+
+We are entering an exciting growth chapter in which we are hiring a data scientist to build, scale, and optimize our NLP and Machine Learning models to create the most effective and accurate models in the industry. Our platform leverages NLP to scan through thousands of EMR (electronic medical records) to draw insights from patient data that can be critical to improving the patient care experience.
+
+We are looking for someone with
+
+4+ years of Data Science and analytics experience
+Expertise with Python or Scala in applied ML
+Strong understanding of NLP techniques in a clinical setting working with EMR, EHR, or related data
+Capability to deploy models to the cloud or use data streaming tools such as Spark
+Proficiency with relational and non-relational databases
+Expertise with data visualization tools to help "tell a story" leveraging data
+Strong communication skills
+BS in Computer Science, Mathematics, Statistics, or related field
+
+
+
+Why join us?
+
+You'll have the chance to join a early stage start up and take on a ton of ownership towards decisions made as we build and grow our robust analytics product.
+
+We also offer competitive base salary, equity, and benefits.
+
+Job Details
+
+We are seeking a highly skilled and motivated Permanent Clinical NLP Data Scientist to join our dynamic team in the technology industry. The ideal candidate will have a strong background in Python, Spark, Machine Learning (ML), healthcare analytics, Clinical NLP, and AWS. As a Clinical NLP Data Scientist, you will be responsible for developing and implementing innovative solutions to complex healthcare problems. You will work closely with our team of experts to analyze large datasets and develop predictive models that can be used to improve patient outcomes.
+
+Responsibilities
+
+Develop and implement NLP algorithms to extract clinical information from unstructured data sources
+Analyze large datasets to identify patterns and trends in healthcare data
+Develop predictive models using machine learning algorithms to improve patient outcomes
+Collaborate with cross-functional teams to design and implement data-driven solutions
+Develop and maintain data pipelines to ensure data quality and integrity
+Communicate findings and insights to stakeholders in a clear and concise manner
+Stay up-to-date with the latest developments in NLP, machine learning, and healthcare analytics
+
+Qualifications
+
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+3+ years of experience in NLP, machine learning, and healthcare analytics
+Strong programming skills in Python and experience with Spark
+Experience with AWS services such as S3, EC2, and EMR
+Experience with clinical NLP tools such as MetaMap, cTAKES, or similar
+Strong analytical and problem-solving skills
+Excellent communication and collaboration skills
+Ability to work independently and as part of a team
+Strong attention to detail and ability to manage multiple projects simultaneously
+
+If you are a highly motivated and skilled Clinical NLP Data Scientist with a passion for improving healthcare outcomes, we encourage you to apply for this exciting opportunity. We offer a competitive salary, comprehensive benefits package, and a dynamic work environment where you can grow your skills and make a meaningful impact.
+
+Interested in hearing more? Easy Apply now by clicking the "Apply" button.
+
+Want to learn more about this role and Jobot?
+
+Click our Jobot logo and follow our LinkedIn page!

@@ -1,0 +1,16 @@
+{
+    "email": "your email for LinkedIn",
+    "password": "your password for LinkedIn",
+    "keywords": ["desired position"],
+    "location": ["desired location"],
+    "work mode": ["Remote"],
+    "date posted": "Any time",
+    "work fields": ["desired work fields"],
+    "years of experience": "number of years, int",
+    "degree": "education degree",
+    "driver_path": "path to chromedriver",
+    "open_ai_api_key": "your key for openapi",
+    "google_api_file": "your JSON file for Google Sheets service",
+    "name_of_spreadsheet": "name of the spread sheets to collect data in",
+    "sh status column": "letter index for the column with the links in your spreadsheets"
+}

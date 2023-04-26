@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.ipynb
+chromedriver
+src/__pycache__/
+config.json
+*.~lock*

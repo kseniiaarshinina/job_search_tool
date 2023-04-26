@@ -1,0 +1,11 @@
+﻿• Create and implement complex, cross-functional analytics solutions, predictive models and statistical analyses for solving business issues and requirements
+
+• Work independently to manage the full lifecycle of data analysis and model development – detailed EDA to analyze business issues, develop the analytics solution framework, design and develop the datasets required for building statistical and predictive models, create the models and validate for accuracy, as well as explain the model results and implementation to business stakeholders
+
+• Create and support all facets of analytics – descriptive, prescriptive, and predictive analysis, and effectively communicating the results to various internal/external stakeholders
+
+• Conduct analytic deep-dives of critical business issues that impact performance and translate the analyses into actionable recommendations
+
+• Partner with other internal/external teams to facilitate development or implementation of identified analytics solutions, work closely with IT teams wherever required for data quality, engineering, and orchestration
+
+• Execute planned analysis to meet the project objectives, and ensure on-time & error free delivery, proactively escalate issues when required

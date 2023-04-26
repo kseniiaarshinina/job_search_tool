@@ -1,0 +1,14 @@
+﻿Designed and implemented data pipelines that turn data into actionable results
+Processing data: collecting from various sources, pre-processing, preparation, cleaning, patterns identification, work on missing data etc.Implemented ML algorithms and models into the company's systemImplemented statistical and analytical methods into company's systemCreated custom data visualization tool mimicking TableauSolved complex tasks with non-standard methodsWorked with cross-functional teams, reported to stakeholdersParsing buildings' energy bills from .pdf format into manageable dataPython coding: building api, work on time series, databases dev, etc.
+Python coding: backend stuff (api-s, database, etc.) as well as standard range of ML libraries (Pandas, Numpy, PyTorch, Tensorflow, Scikit-learn, etc.)
+Data analysis
+Implemented best practices for code development and ML-ops, experiment tracking, etc
+Managed parallel projects and tasks
+Worked with outlier detection markers, anomalies detection
+Managed AWS model training
+Worked in Agile team
+Prepared reports based on data analytics to measure effectiveness of features and tools
+Processing data: discovery, collection, preparation, cleansing, patterns identification, data quality improvements, etc.
+Worked with SQL and NoSQL
+Quick learner, got promotion from Junior to Middle in 1 year
+

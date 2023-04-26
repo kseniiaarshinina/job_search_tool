@@ -1,0 +1,39 @@
+﻿Data Scientist – Dubai
+
+
+You will be working as a Data Scientist working on security products under development for some very exciting government led projects and partnerships.
+
+
+Role Purpose:
+
+Undertaking data collection, preprocessing and analysis
+Building models to address business problems (Supervised Model, Unsupervised Model, Deep learning, and Reinforcements learning)
+Presenting information using data visualization techniques
+
+Responsibilities:
+
+Identify valuable data sources and automate collection processes
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams
+
+Skills:
+
+Proven experience as a Data Scientist or Data Analyst
+Experience in data mining
+Understanding of machine-learning and operations research
+Knowledge of R, SQL and Python.
+Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)
+Analytical mind and business acumen
+Strong math skills (e.g. statistics, algebra)
+Problem-solving aptitude
+Excellent communication and presentation skills
+BSc/BA in Computer Science, Engineering or relevant field; graduate degree in - Data Science or other quantitative field is preferred
+
+Salary: Competitive + Self & Family Benefits
+
+Location: Dubai

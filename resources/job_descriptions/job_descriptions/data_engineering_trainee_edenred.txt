@@ -1,0 +1,36 @@
+﻿You will play a vital role in the heart of a product-centric organization that enjoys the autonomy of a startup while channelling the network and reach of a multi-national company.
+
+An opportunity to innovate in the midst of the thriving fintech industry, driving financial inclusion amongst millions of unbanked employees in the UAE.
+
+You will participate in the design, development, roll-out and support of data-related applications and will work within the Data team.
+
+You will:
+
+The position requires effective data tech skills, time management, team spirit, communication, and organizational abilities.
+
+Understand and support UAE's strategic vision of financial inclusion, helping the business to make empowered decisions supported by data
+Critical role in the data platform implementation for the organization
+Help to drive a data transformation to support product growth by acting as a Data Champion for cross-functional teams
+Working with cutting-edge technologies and resources to create an impact on how data is used within the organization
+Identify data sources, data processing concepts and methods
+Evaluate, design, and implement on-premises, cloud-based and hybrid data engineering solutions
+Structuring and storing data for uses including — but not limited to — analytics, machine learning, data mining, sharing with applications and organizations
+Integrate, consolidate, and clean data
+Migrate and convert data
+Applying ethical principles in handling data
+Ensuring appropriate storage of data in line with relevant legislation
+Building in security, compliance, scalability, efficiency, reliability, fidelity, flexibility, and portability
+REQUIRED SKILLS AND PROFILE
+
+The ideal candidate will be a graduate in Computer Science, Math, Statistics, Engineering or a related field
+Passionate about data and data solutions
+Already has an understanding of what data engineering is about and wants to pursue a career as a Data Engineer
+Knowledge on SQL
+Knowledge of Python or R
+Nice to have some experience with PowerBI, Tableau, Qlik or similar tools
+Good analytical, problem-solving, and communication skills
+Demonstrates the ability to work independently and solve problems with minimal guidance
+
+The ideal candidate has their own visa for the initial 6 months. We offer a 6-month Trainee program with the opportunity to apply for a permanent role after 6 months.
+
+The ideal candidate has their own visa for the initial 6 months.
